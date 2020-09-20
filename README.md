@@ -8,6 +8,7 @@ An overview on how machine learnig algorithims could be effectively implemented 
 ## Steps Involved
 
 * Loading libraries and data is always the first step
+
     data url:"http://bit.ly/w-data"
 
 * To see if there exist any pattern between the number of hours studied and the marks obtained a graphical evaluation approach is adopted.
