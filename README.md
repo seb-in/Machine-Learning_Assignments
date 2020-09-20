@@ -7,7 +7,7 @@ An overview on how machine learnig algorithims could be effectively implemented 
 
 ## Steps Involved
 
-* Loading libraries and data is always the first step
+* Loading libraries and data is always the first step,
 
     data url:"http://bit.ly/w-data"
 
@@ -15,7 +15,7 @@ An overview on how machine learnig algorithims could be effectively implemented 
 
 * Once the correlation study and visualisation is carried out, it is further required to split the data into two parts: one part for training and the other part for testing.
 
-* A linear regression model is then called upon and is fed with the training data which trains the model
+* A linear regression model is then called upon and is fed with the training data which trains the model.
 
 * After training the created model, it is finally ready to make predictions.
 
