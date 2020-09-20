@@ -3,7 +3,7 @@
 
 ## Introduction
 
-With this Supervised Machine Learning Model, a student's score is predicted using a Linear Regression Model after it is being trained with a dataset url "http://bit.ly/w-data"
+With this Supervised Machine Learning Model, a student's percentage score is predicted using a Linear Regression Model after it is being trained with a dataset url "http://bit.ly/w-data"
 
 
 ## Steps Involved
