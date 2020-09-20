@@ -1,26 +1,28 @@
-## Predicting the percentage of marks a student will acquire on the basis of the number of hours he/she studied.
-
+## A Supervised Machine Learning model that gives predictions for the percentage of marks a student will secure given the number of hours they have studied.
 
 ## Introduction
 
-With this Supervised Machine Learning Model, a student's percentage score is predicted using a Linear Regression Model after it is being trained with a dataset url:"http://bit.ly/w-data"
+An overview on how machine learnig algorithims could be effectively implemented in creating a simple Linear Regression models that is capable of making some basic predictions.
 
 
 ## Steps Involved
 
-* Initially, the relationship between the student mark percentage and the number of hours they have studied are analysed using graphical representations.
+* The first step is to load the dataset, for this model data is acquired from this url:"http://bit.ly/w-data"
 
-* Next step is to split the data for training and testing.
+* To see if there exist any pattern between the number of hours studied and the marks obtained a graphical evaluation approach is adopted.
 
-* Then a machine learning linear regression model is created and trained which is ready to make predictions.
+* Once the correlation study and visualisation is carried out, it is further required to split the data into two parts: one part for training and the other part for testing.
 
-* After making predictions, a comparative study between predicted scores and actual scores is done.
+* A linear regression model is then called upon and is fed with the training data which trains the model
 
-* The created machine learning model at this stage could answer to a question: 
+* After training the created model, it is finally ready to make predictions.
 
-  What will be the predicted score if a student studies for 9.25 hrs in a day?
+* The predicted scores are then displayed along with the actual scores to get a glimpse of the model performance.
 
-* Towards the final stage, the model accuracy is tested by calculating Mean Absolute Error and Root Mean Square Error.
+* At this stage our trained machine learning model is asked to make prediction for a sample question-
+    eg: What will be the predicted score if a student studies for 9.25 hrs in a day?
+
+* Towards the end, the model accuracy is tested by calculating Mean Absolute Error and Root Mean Square Error.
 
 
 ## Conclusion
