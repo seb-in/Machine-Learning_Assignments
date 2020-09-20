@@ -1,4 +1,4 @@
-## A Supervised Machine Learning model that gives predictions for the percentage of marks a student will secure given the number of hours they have studied.
+## A Supervised Machine Learning model that gives prediction for the percentage of marks a student will secure given the number of hours they have studied.
 
 ## Introduction
 
