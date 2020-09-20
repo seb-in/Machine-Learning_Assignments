@@ -16,7 +16,7 @@ With this Supervised Machine Learning Model, a student's score is predicted usin
 
 * The created machine learnig model at this stage could answer to a question: 
 
-  What will be predicted score if a student study for 9.25 hrs in a day?
+  What will be the predicted score if a student studies for 9.25 hrs in a day?
 
 * Towards the final stage, the model accuracy is tested by calculating Mean Absolute Error and Root Mean Square Error.
 
